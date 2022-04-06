@@ -1,0 +1,31 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     3/22/22      9:31: 1      CREATED BY USER: apache                  
+ATOM      1  N1  NCT N   1      31.324  53.832  55.783  1.00  0.00      NCT 
+ATOM      2  C1  NCT N   1      31.728  54.137  54.558  1.00  0.00      NCT 
+ATOM      3  C2  NCT N   1      31.931  55.470  54.130  1.00  0.00      NCT 
+ATOM      4  C3  NCT N   1      31.634  56.489  55.061  1.00  0.00      NCT 
+ATOM      5  C4  NCT N   1      31.175  56.147  56.343  1.00  0.00      NCT 
+ATOM      6  C5  NCT N   1      31.030  54.788  56.662  1.00  0.00      NCT 
+ATOM      7  N2  NCT N   1      33.849  55.283  52.614  1.00  0.00      NCT 
+ATOM      8  C6  NCT N   1      32.458  55.820  52.749  1.00  0.00      NCT 
+ATOM      9  C7  NCT N   1      31.709  55.173  51.579  1.00  0.00      NCT 
+ATOM     10  C8  NCT N   1      32.735  55.113  50.444  1.00  0.00      NCT 
+ATOM     11  C9  NCT N   1      34.120  55.049  51.126  1.00  0.00      NCT 
+ATOM     12  C10 NCT N   1      34.853  56.204  53.245  1.00  0.00      NCT 
+ATOM     13  H1  NCT N   1      31.943  53.307  53.891  1.00  0.00      NCT 
+ATOM     14  H2  NCT N   1      31.756  57.528  54.796  1.00  0.00      NCT 
+ATOM     15  H3  NCT N   1      30.936  56.906  57.071  1.00  0.00      NCT 
+ATOM     16  H4  NCT N   1      30.682  54.488  57.644  1.00  0.00      NCT 
+ATOM     17  H5  NCT N   1      33.882  54.364  53.113  1.00  0.00      NCT 
+ATOM     18  H6  NCT N   1      32.540  56.893  52.630  1.00  0.00      NCT 
+ATOM     19  H7  NCT N   1      30.821  55.763  51.302  1.00  0.00      NCT 
+ATOM     20  H8  NCT N   1      31.347  54.164  51.828  1.00  0.00      NCT 
+ATOM     21  H9  NCT N   1      32.669  56.016  49.811  1.00  0.00      NCT 
+ATOM     22  H10 NCT N   1      32.555  54.258  49.771  1.00  0.00      NCT 
+ATOM     23  H11 NCT N   1      34.602  54.057  50.943  1.00  0.00      NCT 
+ATOM     24  H12 NCT N   1      34.787  55.834  50.689  1.00  0.00      NCT 
+ATOM     25  H13 NCT N   1      34.557  56.311  54.311  1.00  0.00      NCT 
+ATOM     26  H14 NCT N   1      34.784  57.164  52.690  1.00  0.00      NCT 
+ATOM     27  H15 NCT N   1      35.843  55.717  53.130  1.00  0.00      NCT 
+TER      28      NCT      1
+END

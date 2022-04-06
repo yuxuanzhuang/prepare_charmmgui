@@ -1,0 +1,15 @@
+---
+title: null
+compound: null
+expdata: null
+crystal:
+  operator: [ ]
+  geometry: [ ]
+biomat_data: null
+ssbonds: [ ]
+missing_residue: [ ]
+exit_token:
+  - MODEL
+  - 'ATOM '
+  - HETAT
+format: CHARMM
